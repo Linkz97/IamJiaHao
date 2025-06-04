@@ -28,11 +28,10 @@ This portfolio highlights my featured projects, technical skills, and contributi
 ## 🚀 Featured Projects at Xhinobi Studios
 
   ### 🤖 Mech Craft ⚔️ (Multiplayer NFT Mobile Game)  
-  ![Mech Craft Title](https://mechcraft.world/wp-content/uploads/2021/11/MechCraft-Title-Small.png)
   <p align="center">
     <img src="https://mechcraft.world/wp-content/uploads/2021/11/Title_MechCraft_01-300x150.png" alt="Mech Craft" width="600"/>
   </p>
-  
+ 
   **Role:** Unity Developer
   **Description:**  
   A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer networking, and gameplay feature implementation.
@@ -53,7 +52,9 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ---
 
   ## 🌠 Meteorn Run 🪙 (Hyper-Casual NFT Mobile Game)
-  
+  <p align="center">
+    <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Mech Craft" width="600"/>
+  </p>
   **Role:** Senior/Lead Developer
   
   **Description:**  
