@@ -55,6 +55,7 @@ This portfolio highlights my featured projects, technical skills, and contributi
   <p align="center">
     <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Mech Craft" width="600"/>
   </p>
+
   **Role:** Senior/Lead Developer
   
   **Description:**  
@@ -75,6 +76,11 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ---
 
   ### 🤖 Cyber Strike ⚔️
+
+  <p align="center">
+    <img src="http://thecyberstrike.com/wp-content/uploads/2024/10/CyberStrike-RGB-v-2-Small.png" alt="Mech Craft" width="600"/>
+  </p>
+
   **Role:** Senior/Lead Developer
   
   **Description:**  
@@ -84,9 +90,16 @@ This portfolio highlights my featured projects, technical skills, and contributi
   - Fast-paced endless runner  
   - Rapid demo delivery in 1 month  
   - Mobile optimization  
-  - UI/UX polish  
+  - UI/UX polish
+    
   ---
+  
   ### 🤖 Bomb Battle ⚔️ 
+
+  <p align="center">
+    <img src="https://www.thebombbattle.com/images/logo.png" alt="Mech Craft" width="600"/>
+  </p>
+  
   **Role:** Senior/Lead Developer
   
   **Description:**  
@@ -96,7 +109,8 @@ This portfolio highlights my featured projects, technical skills, and contributi
   - Fast-paced endless runner  
   - Rapid demo delivery in 1 month  
   - Mobile optimization  
-  - UI/UX polish  
+  - UI/UX polish
+    
   ---
   
   ### 🤖 Derby ⚔️ 
