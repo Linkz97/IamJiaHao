@@ -129,10 +129,6 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ---
   
   ### 🤖 Animalia ⚔️ 
-
-  <p align="center">
-    <img src="https://pbs.twimg.com/profile_banners/1426829218512478213/1702441860/1500x500" alt="Animalia " width="600"/>
-  </p>
   
   **Role:** Senior/Lead Developer
   
