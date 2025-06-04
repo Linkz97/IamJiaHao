@@ -28,6 +28,7 @@ This portfolio highlights my featured projects, technical skills, and contributi
 ## 🚀 Featured Projects at Xhinobi Studios
 
   ### 🤖 Mech Craft ⚔️ (Multiplayer NFT Mobile Game)  
+  ![Mech Craft Title](https://mechcraft.world/wp-content/uploads/2021/11/MechCraft-Title-Small.png)
   
   **Role:** Unity Developer
   **Description:**  
