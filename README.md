@@ -29,6 +29,10 @@ This portfolio highlights my featured projects, technical skills, and contributi
 
   ### 🤖 Mech Craft ⚔️ (Multiplayer NFT Mobile Game)  
   ![Mech Craft Title](https://mechcraft.world/wp-content/uploads/2021/11/MechCraft-Title-Small.png)
+
+  <p align="center">
+    <img src="https://mechcraft.world/wp-content/uploads/2021/11/MechCraft-Title-Small.png" alt="Mech Craft" width="800"/>
+  </p>
   
   **Role:** Unity Developer
   **Description:**  
