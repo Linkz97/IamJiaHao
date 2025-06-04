@@ -31,6 +31,9 @@ This portfolio highlights my featured projects, technical skills, and contributi
   <p align="center">
     <img src="https://mechcraft.world/wp-content/uploads/2021/11/Title_MechCraft_01-300x150.png" alt="Mech Craft" width="600"/>
   </p>
+
+  **Status:** 
+  - OnGoing🟢
  
   **Role:** Unity Developer
   **Description:**  
@@ -41,7 +44,8 @@ This portfolio highlights my featured projects, technical skills, and contributi
   - SmartFox Server
   - Real-time multiplayer
   - server optimization
-  - NFT
+  - NFT Games
+  - AI & Automation
     
   **Links:**  
   - 🌐 [Official Website](https://mechcraft.world/)  
@@ -65,7 +69,8 @@ This portfolio highlights my featured projects, technical skills, and contributi
   - Fast-paced endless runner  
   - Rapid demo delivery in 1 month  
   - Mobile optimization  
-  - UI/UX polish  
+  - UI/UX polish
+  - NFT Games  
   
   **Links:**  
   - 🌐 [Official Website](https://meteornrun.io/)  
@@ -75,72 +80,85 @@ This portfolio highlights my featured projects, technical skills, and contributi
   
   ---
 
-  ### 🤖 Cyber Strike ⚔️
+  ### 💻 Cyber Strike ⚔️
 
   <p align="center">
     <img src="http://thecyberstrike.com/wp-content/uploads/2024/10/CyberStrike-RGB-v-2-Small.png" alt="Mech Craft" width="600"/>
   </p>
 
-  **Role:** Senior/Lead Developer
+  **Status:** 
+  - OnGoing🟢
+
+  **My Role:** Senior/Lead Developer
   
-  **Description:**  
-  A fast-paced endless runner game with NFT integration. Delivered a rapid demo within 1 month. Focused on mobile optimization and UI/UX polish to ensure smooth and engaging gameplay.
+  **Game Description:**   
+  Immersive Interactive Games that use Input of Touch, Step, Voices for the gameplay. Different Games required different skillset like precision, reflex, memory, Aim, prediction, teamwork and etc in order to beat the levels and achieve for the high score.
   
   **Highlights:**  
-  - Fast-paced endless runner  
-  - Rapid demo delivery in 1 month  
-  - Mobile optimization  
+  - All games communicate with Arduino/ Sensor Hardware  
+  - 2D & 3D Game Development
   - UI/UX polish
+  - Floor Detection & Wall Detection detection gameplay
+  - I Implemented Entire Fronted & Backend systems (Register, Server, Games, Data Handling, etc)
     
   ---
   
-  ### 🤖 Bomb Battle ⚔️ 
+  ### 💣 Bomb Battle ⚔️ 
   
-  **Role:** Senior/Lead Developer
+  **Status:** 
+  - OnGoing🟢
   
-  **Description:**  
-  A fast-paced endless runner game with NFT integration. Delivered a rapid demo within 1 month. Focused on mobile optimization and UI/UX polish to ensure smooth and engaging gameplay.
+  **My Role:** Senior/Lead Developer
+  
+  **Game Description:** 
+  A Series of game that combine Game with hardware to create immersive gameplay and joys. We implemented the game that work with aduino~unity and create multiple different type of input for the game such as button, laser, motion sensor, voice over game, touch screen and etc.
   
   **Highlights:**  
-  - Fast-paced endless runner  
-  - Rapid demo delivery in 1 month  
-  - Mobile optimization  
-  - UI/UX polish
-    
+  - Developed 15+ Games within short period
+  - Functioned with touch screen monitor
+  - Functioned with Aruidno Hardware
+
   ---
   
-  ### 🤖 Derby ⚔️ 
+  ### 🏇 Derby Farm 💖
   
   <p align="center">
     <img src="https://derbyfarm.io/assets/images/main_logo.png" alt="Derby Farm" width="600"/>
   </p>
+
+  **Status:** 
+  - Stop/ ShutDown🔴
   
-  **Role:** Senior/Lead Developer
+  **My Role:** Senior/Lead Developer
   
-  **Description:**  
-  A fast-paced endless runner game with NFT integration. Delivered a rapid demo within 1 month. Focused on mobile optimization and UI/UX polish to ensure smooth and engaging gameplay.
-  
-  **Highlights:**  
-  - Fast-paced endless runner  
-  - Rapid demo delivery in 1 month  
-  - Mobile optimization  
-  - UI/UX polish
-  - 
-  ---
-  
-  ### 🤖 Animalia ⚔️ 
-  
-  **Role:** Senior/Lead Developer
-  
-  **Description:**  
-  A fast-paced endless runner game with NFT integration. Delivered a rapid demo within 1 month. Focused on mobile optimization and UI/UX polish to ensure smooth and engaging gameplay.
+  **Game Description:**  
+  NFT Derby Farm, Horse Racing x Simulation Mobile Game.
   
   **Highlights:**  
-  - Fast-paced endless runner  
-  - Rapid demo delivery in 1 month  
-  - Mobile optimization  
-  - UI/UX polish  
+  - Mobile optimization 
+  - 3D environment optimization
+  - NFT Games
+  - RestFul's API with ASP.net
+    
   ---
+  
+  ### 🐻 Animalia 🃏
+
+  **Status:** 
+  - Stop/ ShutDown🔴
+  
+  **My Role:** Unity Developer
+  
+  **Game Description:**  
+  Animalia is an independent free-to-play online NFT trading card game featuring crypto inspired meme creatures and gemstones.
+  
+  **Highlights:**  
+  - Deck Build Game
+  - Developed 30+ different card for the gameplay
+  - Gameplay & Server Logic
+  - NFT Games
+  ---
+  
 ---
 
 ## 🎮 Featured Projects at Break Loop Games Studio
@@ -160,7 +178,6 @@ This portfolio highlights my featured projects, technical skills, and contributi
   
   **Links:**  
   - 🤖 [Google Play (Android)](Coming Soon)  
-  
 
 ---
 
@@ -168,6 +185,6 @@ This portfolio highlights my featured projects, technical skills, and contributi
 
 - **Email:** [skyhao97@gmail.com](mailto:skyhao97@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/jia-hao-on-a61a83276](https://www.linkedin.com/in/jia-hao-on-a61a83276)  
-- **Portfolio Site:** [yourusername.github.io](https://yourusername.github.io)  
+- **Portfolio Site:** [https://github.com/Linkz97](https://github.com/Linkz97)  
 
 Thank you for visiting! Feel free to explore the repos and reach out.
