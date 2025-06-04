@@ -95,10 +95,6 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ---
   
   ### 🤖 Bomb Battle ⚔️ 
-
-  <p align="center">
-    <img src="https://www.thebombbattle.com/images/logo.png" alt="Bomb Battle" width="600"/>
-  </p>
   
   **Role:** Senior/Lead Developer
   
