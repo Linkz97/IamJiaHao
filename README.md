@@ -33,11 +33,13 @@ This portfolio highlights my featured projects, technical skills, and contributi
   </p>
 
   **Status:** 
-  - OnGoing🟢
+  On Going🟢
  
-  **Role:** Unity Developer
+  **My Role:** 
+  Unity Developer -> Lead Developer
+  
   **Description:**  
-  A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer networking, and gameplay feature implementation.
+  A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer   networking, and gameplay feature implementation.
   
   **Highlights:**
   - Firebase Analytics
@@ -60,7 +62,11 @@ This portfolio highlights my featured projects, technical skills, and contributi
     <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Meteorn Run" width="600"/>
   </p>
 
-  **Role:** Senior/Lead Developer
+  **Status:** 
+  On Going🟢
+  
+  **Role:** 
+  Senior/Lead Developer
   
   **Description:**  
   A fast-paced endless runner game with NFT integration. Delivered a rapid demo within 1 month. Focused on mobile optimization and UI/UX polish to ensure smooth and engaging gameplay.
@@ -87,9 +93,10 @@ This portfolio highlights my featured projects, technical skills, and contributi
   </p>
 
   **Status:** 
-  - OnGoing🟢
+  OnGoing🟢
 
-  **My Role:** Senior/Lead Developer
+  **My Role:** 
+  Senior/Lead Developer
   
   **Game Description:**   
   Immersive Interactive Games that use Input of Touch, Step, Voices for the gameplay. Different Games required different skillset like precision, reflex, memory, Aim, prediction, teamwork and etc in order to beat the levels and achieve for the high score.
@@ -106,9 +113,10 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ### 💣 Bomb Battle ⚔️ 
   
   **Status:** 
-  - OnGoing🟢
+  OnGoing🟢
   
-  **My Role:** Senior/Lead Developer
+  **My Role:** 
+  Senior/Lead Developer
   
   **Game Description:** 
   A Series of game that combine Game with hardware to create immersive gameplay and joys. We implemented the game that work with aduino~unity and create multiple different type of input for the game such as button, laser, motion sensor, voice over game, touch screen and etc.
@@ -127,9 +135,10 @@ This portfolio highlights my featured projects, technical skills, and contributi
   </p>
 
   **Status:** 
-  - Stop/ ShutDown🔴
+  Stop/ ShutDown🔴
   
-  **My Role:** Senior/Lead Developer
+  **My Role:** 
+  Senior/Lead Developer
   
   **Game Description:**  
   NFT Derby Farm, Horse Racing x Simulation Mobile Game.
@@ -145,9 +154,10 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ### 🐻 Animalia 🃏
 
   **Status:** 
-  - Stop/ ShutDown🔴
+  Stop/ ShutDown🔴
   
-  **My Role:** Unity Developer
+  **My Role:** 
+  Unity Developer
   
   **Game Description:**  
   Animalia is an independent free-to-play online NFT trading card game featuring crypto inspired meme creatures and gemstones.
@@ -165,7 +175,11 @@ This portfolio highlights my featured projects, technical skills, and contributi
 
   ### 🤖 Color Swipe ⚔️
 
-  **Role:** Solo Developer
+  **Status:** 
+  Waiting To Released🟢
+  
+  **Role:** 
+  Solo Developer
   
   **Description:**  
   Fast-paced hyper-casual swipe game. Swipe by color to test your reflexes.
