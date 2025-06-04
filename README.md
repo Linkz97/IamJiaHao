@@ -53,7 +53,7 @@ This portfolio highlights my featured projects, technical skills, and contributi
 
   ## 🌠 Meteorn Run 🪙 (Hyper-Casual NFT Mobile Game)
   <p align="center">
-    <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Mech Craft" width="600"/>
+    <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Meteorn Run" width="600"/>
   </p>
 
   **Role:** Senior/Lead Developer
@@ -97,7 +97,7 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ### 🤖 Bomb Battle ⚔️ 
 
   <p align="center">
-    <img src="https://www.thebombbattle.com/images/logo.png" alt="Mech Craft" width="600"/>
+    <img src="https://www.thebombbattle.com/images/logo.png" alt="Bomb Battle" width="600"/>
   </p>
   
   **Role:** Senior/Lead Developer
@@ -114,6 +114,11 @@ This portfolio highlights my featured projects, technical skills, and contributi
   ---
   
   ### 🤖 Derby ⚔️ 
+  
+  <p align="center">
+    <img src="https://derbyfarm.io/assets/images/main_logo.png" alt="Derby Farm" width="600"/>
+  </p>
+  
   **Role:** Senior/Lead Developer
   
   **Description:**  
@@ -123,10 +128,16 @@ This portfolio highlights my featured projects, technical skills, and contributi
   - Fast-paced endless runner  
   - Rapid demo delivery in 1 month  
   - Mobile optimization  
-  - UI/UX polish  
+  - UI/UX polish
+  - 
   ---
   
   ### 🤖 Animalia ⚔️ 
+
+  <p align="center">
+    <img src="https://pbs.twimg.com/profile_banners/1426829218512478213/1702441860/1500x500" alt="Animalia " width="600"/>
+  </p>
+  
   **Role:** Senior/Lead Developer
   
   **Description:**  
