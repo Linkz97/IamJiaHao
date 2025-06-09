@@ -26,9 +26,11 @@ This portfolio highlights my featured projects, technical skills, and contributi
 
 ## 🟢 Working Experiences
 
-  ###Xhinobi Studio###
+  ###Xhinobi Studio
   **Title:** 
-    **Date:** 
+  sdfsdf
+    **Date:**
+    asdasd
     
   ###Spacepup Entertainment###
   **Title:** Intern
