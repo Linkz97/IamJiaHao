@@ -28,6 +28,9 @@ This portfolio highlights my featured projects, technical skills, and contributi
 - [Porftolio On Xhinobi](https://github.com/Linkz97/Portfolio_xhinobi/tree/main)
 - [Personal Porfolio](https://github.com/Linkz97/Portfolio_personal/tree/main)
 
+---
+
+## 📞 Contact Me
 - **Email:** [skyhao97@gmail.com](mailto:skyhao97@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/jia-hao-on-a61a83276](https://www.linkedin.com/in/jia-hao-on-a61a83276)  
 
