@@ -34,7 +34,7 @@ This portfolio highlights my featured projects, technical skills, and contributi
 - Worked closely with CTO and clients to deliver tailored technical solutions and product improvements.
 
 ### 🎮 Spacepup Entertainment (Jun ~ Sept 2020)
-**Position : Intern**
+**Position : Internship**
 - Learned Unity development basics while contributing to small-scale gameplay features.  
 - Built and tested simple game mechanics as part of prototype projects under mentorship.
   
