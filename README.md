@@ -24,6 +24,18 @@ This portfolio highlights my featured projects, technical skills, and contributi
 - MySQL, Linux server deployment on Ubuntu (Microsoft Azure, Tencent Cloud, AWS)
 ---
 
+## 🟢 Working Experiences
+
+  ###Xhinobi Studio###
+  **Title:** 
+    **Date:** 
+    
+  ###Spacepup Entertainment###
+  **Title:** Intern
+    **Date:** Jun ~ Sept 2022
+
+---
+
 ## 💻 Portfolio Site || Projects
 - [Porftolio On Xhinobi](https://github.com/Linkz97/Portfolio_xhinobi/tree/main)
 - [Personal Porfolio](https://github.com/Linkz97/Portfolio_personal/tree/main)
