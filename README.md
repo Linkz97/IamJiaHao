@@ -26,16 +26,18 @@ This portfolio highlights my featured projects, technical skills, and contributi
 
 ## 🟢 Working Experiences
 
-  ###Xhinobi Studio
-  **Title:** 
-  sdfsdf
-    **Date:**
-    asdasd
-    
-  ###Spacepup Entertainment###
-  **Title:** Intern
-    **Date:** Jun ~ Sept 2022
+### 🎮 Xhinobi Studio (Nov 2020 – April 2025)
+**Unity Developer → Senior Developer → Lead Developer**
+- Promoted from Junior to Lead over 4+ years, managing a game team of up to 12 developers.
+- Shipped over 2+ mobile & 10+ PC titles, driving gameplay systems, performance optimization, and live ops updates.
+- Led technical planning, resolved complex bugs, and implemented scalable architecture across projects.
+- Worked closely with CTO and clients to deliver tailored technical solutions and product improvements.
 
+### 🎮 Spacepup Entertainment (Jun ~ Sept 2020)
+**Intern**
+- Learned Unity development basics while contributing to small-scale gameplay features.  
+- Built and tested simple game mechanics as part of prototype projects under mentorship.
+  
 ---
 
 ## 💻 Portfolio Site || Projects
