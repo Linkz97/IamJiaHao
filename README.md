@@ -7,6 +7,13 @@ This portfolio highlights my featured projects, technical skills, and contributi
 
 ---
 
+## 📈 Career Vision & Goals
+
+My goal is to grow as a Unity developer specializing in scalable architecture and performance optimization for mobile and cross-platform titles. I enjoy solving complex problems and leading small teams to deliver polished player-facing features.
+
+I’m eager to collaborate in a technically driven team where I can learn and contribute across both creative and technical domains. I'm also open to exploring new technologies, including other engines, multiplayer frameworks, and tooling systems. My long-term objective is to continue leading projects while deepening my specialization in gameplay systems and game optimization.
+---
+
 ## 🔧 Skills
 **Languages:**  
 - C#, Java, SQL
